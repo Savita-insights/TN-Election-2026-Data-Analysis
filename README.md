@@ -89,7 +89,7 @@ Average winning margins declined substantially, indicating a more competitive el
 
 Project introduction and navigation page.
 
-![Home](assets/screenshots/01_home.png)
+![Home Dashboard](assets/screenshots/Home.png)
 
 ---
 
@@ -97,7 +97,7 @@ Project introduction and navigation page.
 
 High-level election summary including KPIs, seat distribution, regional performance, and flip analysis.
 
-![Overview](assets/screenshots/02_overview.png)
+![Overview Dashboard](assets/screenshots/Overview.png)
 
 ---
 
@@ -105,7 +105,7 @@ High-level election summary including KPIs, seat distribution, regional performa
 
 Regional performance comparison between 2021 and 2026.
 
-![Regional Breakdown](assets/screenshots/03_regional_breakdown.png)
+![Regional Dashboard](assets/screenshots/Regional.png)
 
 ---
 
@@ -113,7 +113,7 @@ Regional performance comparison between 2021 and 2026.
 
 Analysis of seats that changed party control.
 
-![Constituency Flips](assets/screenshots/04_constituency_flips.png)
+![Constituency Dashboard](assets/screenshots/Constituency.png)
 
 ---
 
@@ -121,7 +121,7 @@ Analysis of seats that changed party control.
 
 Analysis of dominant victories and closely contested constituencies.
 
-![Win Margins](assets/screenshots/05_win_margins.png)
+![Win Margin Dashboard](assets/screenshots/Win%20Margin.png)
 
 ---
 
@@ -129,7 +129,7 @@ Analysis of dominant victories and closely contested constituencies.
 
 Comparison of General, SC and ST constituencies.
 
-![Reserved Seats](assets/screenshots/06_reserved_seats.png)
+![Reserved Seats Dashboard](assets/screenshots/Reserved.png)
 
 ---
 
@@ -200,7 +200,7 @@ Challenge brief and supporting datasets.
 
 ## 👤 Author
 
-**M. Priya**
+**Savitha M**
 
 Data Analyst | Power BI Developer
 
